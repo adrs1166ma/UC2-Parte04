@@ -1,0 +1,9 @@
+Integrantes 
+	- Huerta Vasquez, Jimmy Alexander: 
+		Git Hub: https://github.com/Jimmysaurux2004/UC2-Parte01.git
+	- Ames Medina, German Edison
+		Git Hub: https://github.com/Devmetrio/UC2-Parte02-.git
+	- Barrios Quispe, Jeampier  
+		Git Hub: https://github.com/Jeampierbq/-UC2-Parte03.git
+	- Mancilla Aquino, Anderson Alfonso
+		Git Hub: https://github.com/adrs1166ma/UC2-Parte04.git
